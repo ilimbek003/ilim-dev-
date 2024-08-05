@@ -1,0 +1,43 @@
+@import "./App.css";
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-Light.ttf");
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-Regular.ttf");
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-Medium.ttf");
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-SemiBold.ttf");
+  font-weight: 600;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-Bold.ttf");
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: Manrope;
+  src: url("../fonts/static/Manrope-ExtraBold.ttf");
+  font-weight: 800;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Manrope;
+}
